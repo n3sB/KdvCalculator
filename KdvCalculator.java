@@ -1,3 +1,5 @@
+package KdvCalculator;
+
 import java.util.Scanner;
 
 public class KdvCalculator {
